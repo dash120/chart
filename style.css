@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+ul{
+    font-family: Montserrat;
+    padding-left: 0;
+    margin-left: 0;
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+}
+#cor{
+    color: rgb(214, 61, 61);
+    font-
+}
+#mon{
+    color: grey;
+}
+#fr{
+    color: rgb(131, 77, 131);
+}
