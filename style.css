@@ -1,23 +1,63 @@
 body{
     background-color: white;
 }
+
 ul{
     font-family: Montserrat;
     padding-left: 0;
     margin-left: 0;
 }
+
 li{
     display: inline-block;
     text-decoration: none;
     font-weight: bold;
 }
+
 #cor{
     color: rgb(214, 61, 61);
-    font-
 }
+
 #mon{
     color: grey;
 }
+
 #fr{
     color: rgb(131, 77, 131);
+}
+
+#line{
+    font-weight: 200;
+    color: gray;
+}
+
+h2{
+    line-height: 1.5;
+    font-size: 40px;
+}
+
+.q{
+    line-height: 1;
+    font-size: 25px;
+    color: gray;
+    font-family: montserrat;
+}
+
+p{
+    font-size: 23px;
+    color: rgb(95, 91, 91);
+    line-height:1.5;
+}
+
+h3{
+    color: rgb(37, 93, 177);
+    font-family: montserrat;
+    font-weight:450;
+}
+.pic {
+    width: 150px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 800px;
+    margin-bottom: 20px;
 }
